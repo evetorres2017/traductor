@@ -1,0 +1,3 @@
+<?
+	$longitud=strlen($texto);
+?>
